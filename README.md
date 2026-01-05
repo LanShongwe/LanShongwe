@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Xolani 👋  
+DevOps Engineer | AWS | CI/CD | Terraform | Ansible | Linux
 
-<!--
-**LanShongwe/LanShongwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a DevOps Engineer with hands-on experience in automating deployments, managing cloud infrastructure, and improving system reliability. I enjoy building simple, reliable solutions using Infrastructure as Code and CI/CD pipelines.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Cloud: AWS (EC2, S3, RDS, IAM, VPC)
+- CI/CD: GitHub Actions, Jenkins
+- IaC: Terraform, Ansible
+- Containers: Docker (learning Kubernetes)
+- Scripting: Python, Bash
+- OS: Linux (Ubuntu), Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 What you’ll find here
+- Infrastructure as Code examples
+- Automation scripts
+- CI/CD demos
+- Learning projects and experiments
+
+📫 **LinkedIn:** https://www.linkedin.com/in/xolani-shongwe-a209a7235/
